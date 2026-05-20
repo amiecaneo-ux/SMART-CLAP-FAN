@@ -3,6 +3,9 @@
 A simple Arduino-based smart fan system that changes fan speed using clap sounds detected by a sound sensor.
 
 <p align="center">
+⭐ DIY SMART CLAP FAN ⭐
+</p>
+<p align="center">
   <img src="img/DIY_smart_fan.jpg" width="700">
 </p>
 
